@@ -13,3 +13,5 @@ Select A,B,C
 where A> 45
 
 ```
+*Italics*
+**Bold**
